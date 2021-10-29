@@ -1,0 +1,38 @@
+{
+  "privacy": {
+    "title": "プライバシーポリシー",
+    "url": "https://www.eye.com/privacy/"
+  },
+  "stations": [
+    {
+      "id": "nagano_inc",
+      "name": "Nagano",
+      "prefix": "0037692",
+      "url": [
+        {
+          "title": "ホームページ",
+          "url": "https://www.naga-inc.co.jp/"
+        },
+        {
+          "title": "マイページ",
+          "url": "https://mypage.na-inc.jp/CB/HTML/SM/MOBILE/index.jsp"
+        }
+      ]
+    },
+    {
+      "id": "watv",
+      "name": "Watv",
+      "prefix": "0037692",
+      "url": [
+        {
+          "title": "ホームページ",
+          "url": "http://www.watv.ne.jp/"
+        },
+        {
+          "title": "マイページ",
+          "url": "https://mymvno.jp/watv/mye/login"
+        }
+      ]
+    }
+  ]
+}
